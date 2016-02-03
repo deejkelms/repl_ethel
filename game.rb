@@ -12,7 +12,7 @@ if choice == "1"
   puts "Where do you want to anchor the rope?"
   puts "1 for a large rock"
   puts "2 for a small tree"
-
+# don't choose the rock!
   print "> "
   rope_tie = gets.strip
 
